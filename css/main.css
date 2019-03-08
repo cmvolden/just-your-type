@@ -20,16 +20,48 @@ body {
   margin: 0;
   font-family: 'Lobster Two', cursive;
   font-family: 'Playfair Display SC', serif;
+  background-color: #2d2d2d;
+  color: #fff;
+  min-height: 100vh;
+}
+
+.star {
+  font-family: 'Indie Flower', cursive;
+  position: absolute;
+  top: -1em;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.curly1 {
+  font-family: 'Indie Flower', cursive;
+  position: absolute;
+  left: -1em;
+  top: 50%;
+  transform: translateY(-50%);
+  display: none;
+}
+
+.curly2 {
+  font-family: 'Indie Flower', cursive;
+  position: absolute;
+  right: -1em;
+  top: 50%;
+  transform: translateY(-50%);
+  display: none;
 }
 
 .cursive {
   font-family: 'Lobster Two', cursive;
   font-style: italic;
+  color: #ffff99;
 }
 
 section {
-  border-color: #000000;
-  border-width: 5px;
+  border-style: solid;
+  border-color: #ffce00;
+  border-width: 2px;
+  background-color: #000000;
 }
 
 p {
