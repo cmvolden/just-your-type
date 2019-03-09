@@ -35,14 +35,14 @@ body {
 .cursive {
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  color: #ffff99;
+  color: #ff9;
 }
 
 section {
   border-style: solid;
   border-color: #ffce00;
   border-width: 2px;
-  background-color: #000000;
+  background-color: #000;
 }
 
 p {
