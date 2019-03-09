@@ -1,13 +1,13 @@
 body {
-  font-family: 'Lobster Two', cursive;
-  font-family: 'Playfair Display SC', serif;
+  font-family: "Lobster Two", cursive;
+  font-family: "Playfair Display SC", serif;
   background-color: #2d2d2d;
   color: #fff;
   min-height: 100vh;
 }
 
 .star {
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   position: absolute;
   top: -1em;
   left: 50%;
@@ -15,7 +15,7 @@ body {
 }
 
 .curly1 {
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   position: absolute;
   left: -1em;
   top: 50%;
@@ -24,7 +24,7 @@ body {
 }
 
 .curly2 {
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   position: absolute;
   right: -1em;
   top: 50%;
@@ -33,7 +33,7 @@ body {
 }
 
 .cursive {
-  font-family: 'Lobster Two', cursive;
+  font-family: "Lobster Two", cursive;
   color: #ff9;
 }
 
@@ -62,7 +62,5 @@ p {
   .curly2 {
     display: block;
   }
-
-
 
 }
